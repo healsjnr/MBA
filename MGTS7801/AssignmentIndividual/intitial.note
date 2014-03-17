@@ -1,0 +1,103 @@
+Individual Assignment: Initial Thoughts
+
+Subject: Constant restructure of product teams to meet demand
+
+Notes:
+  "David, we have an opportunity for you..."
+  For once, I am not the David in question. The opportunity definitely affects me though...
+
+Structural:
+  - specialisation:
+    - the natures of products requires specialisation in certain ways - technical skills (such as proficiency in a given language) and seurity knowledge.
+    - however, the movements of peolpe bewteen teams has meant that peoples do not necessarily have the required skills (or depth of skill) to work effectively on the product. 
+    - whilst this might be an opportunity to upskill workes, often the time spent seconded to another team is not long enough to develop a deep enough understanding for the move to have been useful. 
+    - in software, there is also a signficant "context switch" that occurs when moving between products. as software is complex and abstract, the time taken for a new team member to come on board and be really useful is signficant ( :ref ). in the lead to this, the developer will be able to contribute to the work, however, there is a higher risk of introducing bugs due to insufficient understanding of the implications of the work they do ( :ref ).
+    - ( :comment ) so, from a specialisation point of view, there is an assumption that people are more fungible than they actually are. 
+    - ( :recomend ) i would recomend that rsa keep the idea that people's skills are applicable to multiple projects but 
+      - a) to consider the skill set required more closely, 
+      - b) take into account the current work the person is doing and cost of moving them from this task and onto another task and 
+      - c) increase the period of time for a person is moved to another team. ideally, the person would move "permenantly" to another team, rather than being seconded. 
+  
+  - unit grouping: 
+    - software developers are currently grouped based on product, with one exception - the continuing engineering team provides support to all teams.
+    - each team is responsible to engineering management for day to day tasking and line management, and to product management for product features and delivery. 
+    - functions such as legal, product management, sales, advertising a split into to separate functional groups and are largely located outside of brisbane (and australia).
+    - communication between products within engineering and other functional groups is almost entirely through product management. this results in a single point of failure.
+    - ( :comment ) this lack of communication between silos often makes it difficult for teams  to understand what the priority of tasks is. this particularly troublesome when teams have interdependencies. 
+
+  - chain of command:
+    - engineering projects and deliveries are managemed by a team lead reponsible for planning and tasking work to their team members.
+    - all engineers within a team (including the team lead) report to an engineering management. an engineering manager typically looks after a number of teams. 
+    - each engineering management reports to the general manager of the office who then reports up to the head of the business unit ( :ref - org chart )
+    - team leads and engineers agree with product management the scope of projects and when they can be delivered. 
+    - product managers report directly to the head of prodcut management and so on up the chain.
+  
+  - span of control:
+    - typically a team lead is resposible for task between 2 - 10 persons. 
+    - an engineering management is respsonsible for the line management of between 10 and 20 people.
+    - the general management is responsible for 3 engineering managers. 
+    - ... further up the chain. 
+
+  - centralisation:
+    - in the context of the brisbane, all staff decisions are made by the general managemer and engineering manager. there is very little consultation with the individual engineers regarding their allocation to a team.
+    - ( :comment ) the lack of involvement of staff in decisions relating to their career is, in my view, a contributing factor to a lack of morale. it's also may have a knock on affect on quality as staff feel less invested in a project when they known they may be moved off it at any point. ( :ref - would be great to a reference about motivation and constant change ).  
+    - product decisions are made by the product manager, however there is consultation with the engineers. 
+    - however, there is very little engagment between customers / sales / marketing and engineers.
+    - ( :comment ) more interaction between customers / sales / marketing and engineering would help engineers better understand customers needs. this would be of general value and has been shown to result in high quality products( :ref - agile development generally ).
+    
+   - formalisation:
+     - a high degree of formalisation
+     - in some cases this is required due to the sensitive nature of the work.
+     - it is driven by outdated tools and lack of willingness to adopt more modern development process.
+     - ( :comment ) using different process (agile) and better tools could actually resolve some of the restructuring issues. 
+       - by providing the correct tool set, developers would work more effectively. these tools would also increase communication between teams. 
+       - ultimate an change in process could result in faster turn around and more regular project deliveries.
+       - this would meet many of the customer demands whilst stabilising team composition. ( :ref - deliver projects high quality faster with happier customers using agile ).
+
+
+Human Resources:
+  - Measurement Vs. Reward strcture:
+  - Motivation:
+    - Level (Review slides on what this means)
+    - Direction (Where is our work directed, for what purpose?)
+    - Persistance (How long are working towards this goal)
+    - Intrinsic Reward (challenge / enjoyment of task)
+    - Social Rewards (Co-worker relationship, team building)
+    - Extrinsic Rewards (Pay, Bonuses, Awards)
+  - High Performance HR:
+    - Employee Security
+      - Currently limited. 3 Lay-offs in the past 18 months.
+    - Selective Hiring
+      - In some cases hiring has been less critical due to demand. The review structure is such that feedback on performance is often confused, particularly when it concerns technical ability.
+      - The churn of staff means that often no one Team Lead has worked within someone to a) get a really good feel for there skills and b) feel invested enough in the persons career to raise any issues / personal development options. 
+    - Teams and Decentralized decission making:
+      - Teams are currently fluid. This fluiditiy makes it hard to build a core team that is cohesive and trusting.
+      - Top down decision making exacerbates this. Especially it concerns the movemnt of staff and the nature of the work on which they'll be working.
+    - Training:
+      - Only minimal training provided for staff. In many cases token training (an arbitrarily chosen book such as Eloquent Ruby is chosen and bought on mass).
+    - Reduced Status Distinctions:
+    - Sharing information across the organisation:
+
+Politics:
+  - Power seems to lie in the ability to be unoffensive cheap and high quality.
+  - The real power appears to lie with EMC and with Shareholders
+  - Performance and sales are the only metric on which things are measured. 
+
+Culture:
+
+  - Certain assumptions:
+    - A lot of people outside the office are muppets and don't know what they are doing
+    - Resignation to the fact that people are going to get moved
+    - Elitism
+    - Disrespect for senior leadership
+    - ROI is the only KPI the executive cares about
+
+
+
+Research:
+  - Literature reviewing the quality and timeliness of software delivered by teams under constant change
+  - Literature discussing the management styles for Software Development. Is it substantively different to other product / engineering management? (I believe it is more akin to art than engineering.
+
+Appendixes:
+  - Visualisation of team restructures in the last year. Attempt to frame this in such a way that the detail is less important while the sense of movement is emphasised. 
+  

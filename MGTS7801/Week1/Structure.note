@@ -1,0 +1,56 @@
+
+Structural Frame Details:
+
+  # Google Case
+  Design Decisions:
+    - Specialisation - to what degree are tasks subdivided into separate jobs?
+      # Teams are cross functional - led by 3 people (product, eng, sales)
+      # Individuals are encouraged to be involved in cross functional roles
+      # Strong recruiting process. Look for particular attributes, not necessarily skills
+      # Managers are mentors.
+    - Unit Grouping - on what basis are jobs grouped together?
+      # Grouped by product, not so much functional.
+      # Lot's of communication between groups, decision by comittee.
+      # Specialist in each area work together in product groups, not functional silos.
+    - Chain of Command - to whom do individuals and groups report?
+      # Page, Schimdt and Sergey make product decisions together.
+      # Product leadership teams make decisions as much as they can, but then up to senior executives.
+      # Below 3rd level, small teams and consensus decisions making. 
+    - Span of Control - how man individuals can a manager effectively direct?
+      # Informal setup that encourages cross polination of skills 
+    - Centralisation - where does the decision making authority lie?
+      # Decisions making is made in comittee, but major decisions are kicked up to execs.
+      # Committee paralysis is avoided by strong cultural identity and values. (80% cuttoff)
+      # Less concern about failure and blame. People can fail.
+      # The encourage innovation, ideas come from the floor up, not just from the top down. 
+    - Formalisation - to what degree are actions defined by rules?
+      # Heavily driven by culture.
+
+  Continuum:
+    - Mechanistic to Organic
+    - Mechanistic: 
+      - Very specialised
+      - Highly bureaucratic
+      - High formalisation
+      - Advantage: Productivity and Efficiency.
+    - Organic:
+      - Decentralised
+      - Low formalisation
+      - Cross functional team;
+      - Advantage: Flexibility and adaptability.
+
+  Choosing Strucutre:
+    - Depends on:
+      Mechanistic - Cost minimisation, Stable and simple.
+      Organic - Innovation, Dynamic and complex.
+    - _Structure_should_follow_strategy_
+
+  Structure implementations:
+    - Different types: Function, Product, Matrix etc.,
+      - All have strengths and weakness
+    - Coordination is key to minimising weaknesses:
+      - Vertical - Authority, Output Controls, Process Controls, Planning
+        - Efficient, not necessarily effective.
+      - Lateral - Meetings, Cross-unit groups, Networks, IT systems, HR
+        - Very Effective, but take more effort. 
+  # Thinkg about - How is my organisation structure, what coordination is involved to over come / exacerbate weaknesses. 
